@@ -1,0 +1,1 @@
+$(function(){$(".swiper-flashsale-prev").click(function(){}),$(".swiper-flashsale-next").click(function(){})});

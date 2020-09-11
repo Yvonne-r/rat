@@ -1,0 +1,1 @@
+$(function(){$(".site-topbar a").mouseover(function(){$(this).css({color:"#fff"})}),$(".site-topbar a").mouseout(function(){$(this).css({color:"#b0b0b0"})})});
